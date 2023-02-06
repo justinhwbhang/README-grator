@@ -49,11 +49,7 @@ const questions = [
 
     },
     // tests
-    {
-        type: 'input',
-        name: 'tests',
-        message: 'Please provide test instructions.',
-    },
+   
 ];
 
 // Create a function to write README file
