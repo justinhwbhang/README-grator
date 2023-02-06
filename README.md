@@ -1,21 +1,21 @@
-# README-GRATOR [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This app allows developers to easily create a professional README.md file in an easy and efficient way.
+An app developers can use to create clean, and efficient README.md files
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 ## Installation
-npm install in terminal
+To install all necessary dependencies, please run the command below: npm i inquirer@8.2.4
 ## Usage
-Use to create professional README.md files with ease.
+To use, install as noted above and run in terminal
 ## Credits
 Justin Bong
 ## License
-This project is licensed under the terms of the MIT license.
+Can choose which license and will automatically fill for you
 ## Contributing
 N/A
 ## Tests
-Run in terminal..
+[Here is a walkthrough to help!](https://drive.google.com/file/d/1q0aPuubp1UOrVaqtvHis4y9cZzKE6EC3/view)
       
