@@ -13,7 +13,7 @@ To use, install as noted above and run in terminal
 ## Credits
 Justin Bong
 ## License
-Can choose which license and will automatically fill for you
+Can choose which license and will automatically fill for you, including link above.
 ## Contributing
 N/A
 ## Tests
